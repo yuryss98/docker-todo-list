@@ -1,4 +1,4 @@
-version: 'X'
+version: 'X' // commit inicial
 services:
   app_A:
     # ...
